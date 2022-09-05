@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://i.ibb.co/F5n855v/project2.png" alt="image of the second project">
+    <img src="https://i.postimg.cc/CxR2HfP6/project2.png" alt="image of the second project">
   <picture/>
 </p>
 
